@@ -1,0 +1,13 @@
+{
+    "name": "rds/calculator",
+    "description": "Calculator for arthmetic calculations",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Maninderjeet Singh",
+            "email": "1maninderjeet@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
